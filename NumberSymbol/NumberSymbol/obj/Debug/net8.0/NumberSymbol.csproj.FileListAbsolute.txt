@@ -1,0 +1,15 @@
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\bin\Debug\net8.0\NumberSymbol.exe
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\bin\Debug\net8.0\NumberSymbol.deps.json
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\bin\Debug\net8.0\NumberSymbol.runtimeconfig.json
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\bin\Debug\net8.0\NumberSymbol.dll
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\bin\Debug\net8.0\NumberSymbol.pdb
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.AssemblyInfoInputs.cache
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.AssemblyInfo.cs
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.csproj.CoreCompileInputs.cache
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.sourcelink.json
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.dll
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\refint\NumberSymbol.dll
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.pdb
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\NumberSymbol.genruntimeconfig.cache
+F:\MyProjects\Lesson03_NumberSymbol\NumberSymbol\NumberSymbol\obj\Debug\net8.0\ref\NumberSymbol.dll
